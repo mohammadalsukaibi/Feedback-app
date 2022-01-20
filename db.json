@@ -1,11 +1,6 @@
 {
   "feedback": [
     {
-      "id": 1,
-      "rating": 10,
-      "text": "text coming from the db"
-    },
-    {
       "text": "text coming from the db updated",
       "rating": 5,
       "id": 3
@@ -14,6 +9,16 @@
       "text": "this is a new feedback",
       "rating": 5,
       "id": 4
+    },
+    {
+      "text": "this is a test",
+      "rating": 7,
+      "id": 5
+    },
+    {
+      "text": "this is a test 2",
+      "rating": 6,
+      "id": 6
     }
   ]
 }
